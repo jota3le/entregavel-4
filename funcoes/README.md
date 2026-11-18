@@ -18,3 +18,5 @@ Este projeto reúne a implementação de seis algoritmos fundamentais em JavaScr
    cd <nome-da-pasta>
 
    <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c27d28d2-18b6-433c-838e-dfe55a10d4e5" />
+
+<img width="1360" height="758" alt="image" src="https://github.com/user-attachments/assets/6b652392-72c8-493a-93d7-23eb96907677" />
