@@ -16,3 +16,5 @@ Este projeto reúne a implementação de seis algoritmos fundamentais em JavaScr
    ```bash
    git clone <url-do-seu-repositorio>
    cd <nome-da-pasta>
+
+   <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c27d28d2-18b6-433c-838e-dfe55a10d4e5" />
